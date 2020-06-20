@@ -1,0 +1,15 @@
+coverage==5.1
+dj-database-url==0.5.0
+Django==2.2.12
+django-extensions==2.2.9
+graphviz==0.14
+gunicorn==20.0.4
+psycopg2==2.8.5
+pydot==1.4.1
+pydotplus==2.0.2
+pygraphviz==1.5
+pyparsing==2.4.7
+pytz==2020.1
+six==1.15.0
+sqlparse==0.3.1
+whitenoise==5.1.0
