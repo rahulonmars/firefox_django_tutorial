@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', '46qvq793#ijz(*8_%j$&4gywqdc2=m
 # SECURITY WARNING: don't run with debug turned on in production!
 # DEBUG = True
 DEBUG = os.environ.get('DJANGO_DEBUG','') != 'FALSE'
-ALLOWED_HOSTS = ['pure-spire-84743.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['catalog-lib.herokuapp.com','127.0.0.1']
 
 
 # Application definition
